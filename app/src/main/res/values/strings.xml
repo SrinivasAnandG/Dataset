@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dataset</string>
+
+
+
+    <string name="instructions">
+        1. You must not quit the app at any point of time during the data collection.\n
+        2. You must keep the phone on at all the time while data collection.\n
+        3. You must use the app when phone is in better battery status and when not performing so many background apps.\n
+        4. You must roam all the positions to take atleast 450 distint cordinates in 500 cordinates.\n
+        5. Please make sure you have given all the permissions to the app.\n
+        6. In case app crash please contact developer(+919030304098).\n
+    </string>
+</resources>
